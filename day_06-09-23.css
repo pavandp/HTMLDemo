@@ -1,0 +1,15 @@
+p:first-child {
+    color: blue;
+}
+
+p:nth-child(even) {
+    color: red;
+}
+
+p:nth-last-child(4) {
+    color: pink;
+}
+
+p:nth-last-of-type(2) {
+    color: brown;
+}
